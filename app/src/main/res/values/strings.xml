@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise3_Map</string>
+    <string name="enter_loc">Enter Location (lat,lng)</string>
+    <string name="open_map">Open Map</string>
+</resources>
